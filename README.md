@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about the applications of embedded systems. 
 - 📫 How to reach me on linkedin: www.linkedin.com/in/molly-weber03
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love creating fun projects with my arduino!
+- ⚡ Fun fact: I love fitness and teach cycling classes on UW campus.
 
 <!---
 mollycweber/mollycweber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
